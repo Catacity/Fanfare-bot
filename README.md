@@ -1,6 +1,5 @@
 # Fanfare-bot
 <p align="center">
-Discord Fanfare Bot
 ![DC Logo](https://github.com/Catacity/Fanfare-bot/blob/main/dc.png "Discord logo") <br />
 </p>
 Description
