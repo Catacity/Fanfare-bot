@@ -1,5 +1,6 @@
 # Fanfare-bot
 Discord fanfare bot
+![DC Logo](https://github.com/Catacity/Fanfare-bot/blob/main/dc.png "Discord logo")
 
 Description
 ------
