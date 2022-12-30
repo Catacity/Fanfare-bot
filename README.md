@@ -1,6 +1,6 @@
 # Fanfare-bot
-Discord fanfare bot
-![DC Logo](https://github.com/Catacity/Fanfare-bot/blob/main/dc.png "Discord logo")
+
+![DC Logo](https://github.com/Catacity/Fanfare-bot/blob/main/dc.png "Discord logo") <br />
 
 Description
 ------
@@ -9,5 +9,5 @@ It also works as a music bot. The bot supports the following commands for playin
 
 Credits:
 ------
-Fanfare music: https://www.youtube.com/watch?v=_HxWaQhb7zc&ab_channel=Palpe
+Fanfare music: https://www.youtube.com/watch?v=_HxWaQhb7zc&ab_channel=Palpe <br />
 Music bot tutorial: https://www.youtube.com/watch?v=jHZlvRr9KxM&ab_channel=MaxCodez
