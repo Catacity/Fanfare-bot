@@ -1,7 +1,8 @@
 # Fanfare-bot
-
+<p align="center">
+Discord Fanfare Bot
 ![DC Logo](https://github.com/Catacity/Fanfare-bot/blob/main/dc.png "Discord logo") <br />
-
+</p>
 Description
 ------
 This simple discord bot plays fanfare music whenever a discord user, who was not previously in a channel, joins a channel.
